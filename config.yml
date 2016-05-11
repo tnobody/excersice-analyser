@@ -1,0 +1,8 @@
+excelPath: "D:\\Dropbox\\docs\\Trainingstagebuch.xls"
+server:
+      applicationConnectors:
+      - type: http
+        port: 9000
+      adminConnectors:
+      - type: http
+        port: 9001
