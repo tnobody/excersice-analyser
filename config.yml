@@ -1,4 +1,4 @@
-excelPath: "D:\\Dropbox\\docs\\Trainingstagebuch.xls"
+excelPath: "C:\\Users\\tmkein\\Documents\\docs\\Trainingstagebuch.xls"
 server:
       applicationConnectors:
       - type: http
